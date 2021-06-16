@@ -1,0 +1,14 @@
+.box{
+    height:250px;
+    width:500px;
+    text-align:center;
+cursor: pointer;
+}
+
+
+
+.box img{
+    width:100%;
+    height:auto;
+    margin:0 auto;
+}
